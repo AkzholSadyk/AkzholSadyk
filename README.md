@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akzhol[aksa001]</h1>
-<p align="left"> <img src="https://github.com/AkzholSadyk" alt="AkzholSadyk" /> </p>
 
-alt="AkzholSadyk" /></a> </p>
+
+
 
 
 

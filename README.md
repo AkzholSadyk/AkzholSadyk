@@ -7,7 +7,6 @@
 - 🎓 3rd year Software Engineering student at KBTU  
 - 💻 Passionate about Web Development & Cybersecurity  
 - 🔐 Currently diving deep into Cybersecurity (networks, firewalls, cloud security)  
-- 🌍 Work & Travel USA participant  
 - 📈 Always learning and building real-world projects  
 
 ---
@@ -36,12 +35,6 @@
 A real-world car rental website built with a focus on clean UI/UX and responsiveness.
 
 🔗 https://tyreautorent.com  
-👨‍💻 Developed with Kenzhegali Yerasyl  
-
-**Highlights:**
-- Responsive design  
-- User-friendly interface  
-- Real client project experience  
 
 ---
 
@@ -72,10 +65,4 @@ A real-world car rental website built with a focus on clean UI/UX and responsive
 
 ---
 
-## 🔥 Goals for 2026
-- 🚀 Get internship in IT / Cybersecurity  
-- 🔐 Master networking & security fundamentals  
-- 🌎 Work & Travel USA experience  
-- 💼 Build strong portfolio projects  
 
----

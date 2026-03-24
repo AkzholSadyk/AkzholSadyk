@@ -13,20 +13,19 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+### 💻 Languages & Backend
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 
 ### 🌐 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=angular)
 
 ### ⚙️ Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
-
 ---
 
 ## 📂 Featured Project

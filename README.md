@@ -6,8 +6,6 @@
 ## 🚀 About Me
 - 🎓 3rd year Software Engineering student at KBTU  
 - 💻 Passionate about Web Development & Cybersecurity  
-- 🔐 Currently diving deep into Cybersecurity (networks, firewalls, cloud security)  
-- 📈 Always learning and building real-world projects  
 
 ---
 
